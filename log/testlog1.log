@@ -1,0 +1,9 @@
+2021-05-14 03:17:09,105 [main] INFO HomesNZ - URL opened succesfully
+2021-05-14 03:17:11,657 [main] INFO HomesNZ - user able to enter the address successfully
+2021-05-14 03:17:12,543 [main] INFO HomesNZ - user able to select the address successfully
+2021-05-14 03:17:13,454 [main] INFO HomesNZ - The current url is same as the given address-Test passed
+2021-05-14 03:17:13,494 [main] INFO HomesNZ - 45 Puru Cres is on top of the list- Test passed
+2021-05-14 04:19:05,558 [main] INFO HomesNZ - URL opened succesfully
+2021-05-14 04:19:06,358 [main] INFO HomesNZ - user able to enter the place (Auckland) successfully
+2021-05-14 04:19:07,785 [main] INFO HomesNZ - user able to select the Auckland from the dropdown
+2021-05-14 04:19:09,073 [main] INFO HomesNZ - The current url is not same as the given URL-Test Failed
